@@ -8,6 +8,9 @@
     clear:both;
     text-align:center;
     padding:10px;
+    color:orange;
+    font-family:Courier New;
+    font-size:200%;
 }
 
 a:link {
